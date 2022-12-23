@@ -1,0 +1,21 @@
+      
+         <img src="thumbnail-1.webp" alt="" class="thumbnail1">
+          <img src="thumbnail-2.webp" alt=""class="thumbnail2">
+          <div>
+           <div class="video2"> <img src="" alt=""></div>
+            <div class="video-info2"> <p>Try Not To Laugh Challenge #9</p>
+<p>Markiplier</p>
+<p>19M views · 4 years ago
+</p>
+
+            </p></div> </div>
+          <br>
+        <div class="video1"> <img src="channel-1.jpeg"  alt="" class="channel-picture"> </div> 
+        <div class="video-info">
+        <p class="th1-p">Talking Tech and AI with Google CEO Sundar Pichai!</p>
+       
+        <p>Marques Brownlee</p>
+        <p>3.4M views · 6 months ago</p> </div>
+       
+
+        
